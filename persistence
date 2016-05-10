@@ -1,0 +1,52 @@
+Montag BEGIN 
+3,de,Es
+4,de,Es
+5,la,Ju
+6,la,Ju
+7,ek,Kd
+8,po,Kä
+9,po,Kä
+END
+Dienstag BEGIN 
+1,ma,Kä
+2,ma,Kä
+3,la,Ju
+4,en,Ws
+5,en,Ws
+6,ek,Kd
+7,sp,Tb
+8,sp,Tb
+END
+Mittwoch BEGIN 
+1,ph,Sb
+2,ph,Sb
+3,re,KW
+4,re,KW
+5,de,Es
+6,ma,Kä
+END
+Donnerstag BEGIN 
+1,if,Zw
+2,if,Zw
+3,ge,Mx
+4,ge,Mx
+5,la,Ju
+6,mu,Ht
+END
+Freitag BEGIN 
+1,ku,Ro
+2,ku,Ro
+3,en,Ws
+4,mu,Ht
+5,ch,My
+6,ch,My
+7,bi,My
+8,bi,My
+END
+Class BEGIN
+10
+c
+END
+CRC BEGIN
+2501731724
+END
